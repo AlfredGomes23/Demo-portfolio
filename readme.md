@@ -1,7 +1,7 @@
 # [Live Link](https://alfredgomes23.github.io/Demo-portfolio/)
 
 
-### Note: I'm using this template for only demo purpuse, so all design and saffs credite gos to it's original creator.
+### _Note: I'm using this template for only demo purpuse, so all design and saffs credite goes to it's original creator._
 
 Thank you for using our template!
 
